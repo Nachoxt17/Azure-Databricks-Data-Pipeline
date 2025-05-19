@@ -1,4 +1,4 @@
-# Azure End-to-End Data Engineering Real-Time Project
+# Azure End-to-End Real-Time Data Pipeline
 This project is a data engineering pipeline solution to a made-up business problem, created to aid in my learning and understanding of data pipelining.
 
 ## Description
